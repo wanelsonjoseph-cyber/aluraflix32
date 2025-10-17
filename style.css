@@ -4,4 +4,41 @@ body{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 margin:10px;
 
+
+h1{
+    color:black
+ font: size 25px;
+
 }
+  {
+    font: size 25px;
+}
+header{
+    border-bottom:salmon;
+     margin: 2px;
+     padding: 10px;
+     color: aquamarine;
+}
+.chamada{
+    background-color: blanchedalmond;
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+ .chmada.texto{
+margin-right: 80px;
+ }
+ing{
+ heigt: 200px;   
+}
+.categoria-videos{
+display:flex;
+overflow:x auto;
+gap: 15px;
+}
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
